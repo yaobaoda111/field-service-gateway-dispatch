@@ -1,7 +1,5 @@
 # Review field-service work orders through an OpenAI-compatible gateway
 
-Infrai gives you one api and one bill for every capability, and it's OpenAI-compatible so you skip the SDK chase. I built this gateway over a weekend to stop duct-taping separate providers for vision and storage.
-
 ```bash
 export INFRAI_API_KEY="your-key"
 npm install
